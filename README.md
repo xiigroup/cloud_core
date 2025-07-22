@@ -7,4 +7,4 @@ Library for interacting with xiigoup api services.
 
 ## Unified Messaging
 • Whatsapp Messaging.
-• Sms Api Messaging.
+• Sms Messaging.
