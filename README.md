@@ -6,5 +6,5 @@ Library for interacting with xiigoup api services.
 • Domain & IP LookUp
 
 ## Unified Messaging
-• Whatsapp Messaging.
+• Whatsapp Business Messaging.
 • Sms Messaging.
