@@ -1,7 +1,7 @@
 # cloud_core
 Library for interacting with xiigoup api services.
 
-## WebTools
+## Website Tools
 • URL Shortener
 • Domain & IP LookUp
 
