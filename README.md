@@ -5,6 +5,6 @@ Library for interacting with xiigoup api services.
 • Whatsapp Business Messaging.
 • Sms Messaging.
 
-## Website Tools
+## Web Tools
 • URL Shortener
 • Domain & IP LookUp
